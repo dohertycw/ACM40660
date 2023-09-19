@@ -9,6 +9,8 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+:q!
+:q
 
 # Search String History (newest to oldest):
 
@@ -21,13 +23,38 @@
 # Registers:
 
 # File marks:
-'0  13  15  ~/.bashrc
+'0  6  0  ~/practical01/helloworld.c
+'1  1  0  ~/practical01/helloworld.c
+'2  13  15  ~/.bashrc
 
 # Jumplist (newest first):
+-'  6  0  ~/practical01/helloworld.c
+-'  1  0  ~/practical01/helloworld.c
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
 -'  13  15  ~/.bashrc
 -'  1  0  ~/.bashrc
 
 # History of marks within files (newest to oldest):
+
+> ~/practical01/helloworld.c
+	"	6	0
+	^	6	1
+	.	6	0
+	+	1	18
+	+	6	0
 
 > ~/.bashrc
 	"	13	15
