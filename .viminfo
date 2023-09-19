@@ -23,90 +23,52 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/practical01/printing.o
-'1  1  0  ~/practical01/printing.c
-'2  6  0  ~/practical01/helloworld.c
-'3  1  0  ~/practical01/helloworld.c
-'4  13  15  ~/.bashrc
+'0  13  0  ~/.bashrc
+'1  1  0  ~/practical01/.bash_history
+'2  1  15  ~/practical01/.bashrc
+'3  1  0  ~/practical01/printing.o
+'4  1  0  ~/practical01/printing.c
+'5  6  0  ~/practical01/helloworld.c
+'6  1  0  ~/practical01/helloworld.c
 
 # Jumplist (newest first):
+-'  13  0  ~/.bashrc
+-'  1  0  ~/practical01/.bash_history
+-'  1  15  ~/practical01/.bashrc
 -'  1  0  ~/practical01/printing.o
 -'  1  0  ~/practical01/printing.c
 -'  6  0  ~/practical01/helloworld.c
 -'  1  0  ~/practical01/helloworld.c
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
 -'  1  0  ~/.bashrc
 -'  6  0  ~/practical01/helloworld.c
 -'  1  0  ~/practical01/helloworld.c
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
 -'  1  0  ~/practical01/printing.c
 -'  6  0  ~/practical01/helloworld.c
 -'  1  0  ~/practical01/helloworld.c
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
 -'  6  0  ~/practical01/helloworld.c
 -'  1  0  ~/practical01/helloworld.c
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
--'  13  15  ~/.bashrc
--'  1  0  ~/.bashrc
+-'  1  0  ~/practical01/printing.o
+-'  1  0  ~/practical01/printing.c
+-'  6  0  ~/practical01/helloworld.c
+-'  1  0  ~/practical01/helloworld.c
 
 # History of marks within files (newest to oldest):
+
+> ~/.bashrc
+	"	13	0
+	^	13	16
+	.	14	0
+	+	2	0
+	+	14	0
+
+> ~/practical01/.bash_history
+	"	1	0
+
+> ~/practical01/.bashrc
+	"	1	15
+	^	1	16
+	.	1	16
+	+	1	16
 
 > ~/practical01/printing.o
 	"	1	0
@@ -120,10 +82,3 @@
 	.	6	0
 	+	1	18
 	+	6	0
-
-> ~/.bashrc
-	"	13	15
-	^	13	16
-	.	14	0
-	+	2	0
-	+	14	0
