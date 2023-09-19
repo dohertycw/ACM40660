@@ -23,11 +23,70 @@
 # Registers:
 
 # File marks:
-'0  6  0  ~/practical01/helloworld.c
-'1  1  0  ~/practical01/helloworld.c
-'2  13  15  ~/.bashrc
+'0  1  0  ~/practical01/printing.o
+'1  1  0  ~/practical01/printing.c
+'2  6  0  ~/practical01/helloworld.c
+'3  1  0  ~/practical01/helloworld.c
+'4  13  15  ~/.bashrc
 
 # Jumplist (newest first):
+-'  1  0  ~/practical01/printing.o
+-'  1  0  ~/practical01/printing.c
+-'  6  0  ~/practical01/helloworld.c
+-'  1  0  ~/practical01/helloworld.c
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  6  0  ~/practical01/helloworld.c
+-'  1  0  ~/practical01/helloworld.c
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  0  ~/practical01/printing.c
+-'  6  0  ~/practical01/helloworld.c
+-'  1  0  ~/practical01/helloworld.c
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  13  15  ~/.bashrc
+-'  1  0  ~/.bashrc
 -'  6  0  ~/practical01/helloworld.c
 -'  1  0  ~/practical01/helloworld.c
 -'  13  15  ~/.bashrc
@@ -48,6 +107,12 @@
 -'  1  0  ~/.bashrc
 
 # History of marks within files (newest to oldest):
+
+> ~/practical01/printing.o
+	"	1	0
+
+> ~/practical01/printing.c
+	"	1	0
 
 > ~/practical01/helloworld.c
 	"	6	0
