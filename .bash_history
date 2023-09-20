@@ -88,3 +88,24 @@ vi $HOME/.bashrc
 exit
 #I didn't notice that bash_history saves on logout, so please ignore my attempts to make a bash_history in the new directory. Whoops!
 exit
+cd practical01
+;s
+ls
+vi helloworld2.c
+vi helloworld.c
+vi helloworld2.c
+vi
+vi helloworld.c
+vi helloworld2.c
+vi helloworld.c
+vi helloworld2.c
+gcc -o helloworld2.c
+gcc -o helloworld2 helloworld2.c
+vi helloworld2.c
+gcc -o helloworld2 helloworld2.c
+vi helloworld2.c
+gcc -o helloworld2 helloworld2.c
+ls
+helloworld2
+./helloworld2
+exit
