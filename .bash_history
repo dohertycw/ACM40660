@@ -149,3 +149,51 @@ vi Conversion.c
 gcc -o conversion Conversion.c -lm
 ./conversion
 exit
+cd practical02
+ls
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+vi Sum.c
+gcc -o sum Sum.c -lm
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+gcc -o sum Sum.c -lm
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+vi Sum.c
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+./sum
+vi Sum.c
+gcc -o sum Sum.c -lm
+vi Sum.c
+./sum
+vi Sum.c
+#mathematically, the sums should be the same.
+exit

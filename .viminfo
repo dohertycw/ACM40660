@@ -9,6 +9,8 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+:ew
+:Wq
 :q
 :q!
 
@@ -25,18 +27,29 @@
 	t
 
 # File marks:
-'0  37  72  ~/practical02/Conversion.c
-'1  38  15  ~/practical02/Conversion.c
-'2  9  17  ~/practical02/Conversion.c
-'3  31  20  ~/practical02/Conversion.c
-'4  1  0  ~/practical02/Conversion.c
-'5  6  29  ~/practical01/helloworld2.c
-'6  10  0  ~/practical01/helloworld2.c
-'7  6  0  ~/practical01/helloworld.c
-'8  8  75  ~/practical01/helloworld2.c
-'9  1  0  ~/practical01/helloworld2.c
+'0  36  0  ~/practical02/Sum.c
+'1  34  1  ~/practical02/Sum.c
+'2  35  0  ~/practical02/Sum.c
+'3  22  25  ~/practical02/Sum.c
+'4  14  24  ~/practical02/Sum.c
+'5  13  5  ~/practical02/Sum.c
+'6  11  10  ~/practical02/Sum.c
+'7  12  3  ~/practical02/Sum.c
+'8  13  15  ~/practical02/Sum.c
+'9  15  3  ~/practical02/Sum.c
 
 # Jumplist (newest first):
+-'  36  0  ~/practical02/Sum.c
+-'  34  1  ~/practical02/Sum.c
+-'  35  0  ~/practical02/Sum.c
+-'  22  6  ~/practical02/Sum.c
+-'  14  5  ~/practical02/Sum.c
+-'  13  5  ~/practical02/Sum.c
+-'  11  3  ~/practical02/Sum.c
+-'  12  3  ~/practical02/Sum.c
+-'  15  3  ~/practical02/Sum.c
+-'  29  3  ~/practical02/Sum.c
+-'  1  0  ~/practical02/Sum.c
 -'  37  72  ~/practical02/Conversion.c
 -'  38  6  ~/practical02/Conversion.c
 -'  9  3  ~/practical02/Conversion.c
@@ -124,18 +137,30 @@
 -'  1  0  ~/practical01/.bash_history
 -'  1  15  ~/practical01/.bashrc
 -'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/.bashrc
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
--'  1  15  ~/practical01/.bashrc
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
 
 # History of marks within files (newest to oldest):
+
+> ~/practical02/Sum.c
+	"	36	0
+	^	34	31
+	.	34	30
+	+	29	21
+	+	13	8
+	+	12	24
+	+	13	15
+	+	12	23
+	+	13	16
+	+	13	15
+	+	11	12
+	+	13	19
+	+	7	26
+	+	13	18
+	+	14	24
+	+	15	0
+	+	7	33
+	+	22	25
+	+	35	0
+	+	34	30
 
 > ~/practical02/Conversion.c
 	"	37	72
