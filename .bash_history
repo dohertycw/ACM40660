@@ -109,3 +109,43 @@ ls
 helloworld2
 ./helloworld2
 exit
+cd practical02
+mkdir practical02
+cd practical02
+pwd
+ls
+gcc -o conversion conversion.c
+ls
+gcc -o conversion Conversion.c
+./conversion
+vi Conversion.c
+gcc -o conversion Conversion.c
+vi Conversion.c
+ldconfig
+vi Conversion.c
+gcc -o conversion Conversion.c
+gcc -o conversion Conversion.c -lm
+vi Conversion.c
+./conversion
+vi Conversion.c
+./conversion
+:wq
+vi Conversion.c
+gcc -o conversion Conversion.c -lm
+vi Conversion.c
+gcc -o conversion Conversion.c -lm
+./conversion
+vi Conversion.c
+gcc -o conversion Conversion.c -lm
+vi Conversion.c
+gcc -o conversion Conversion.c -lm
+./conversion
+vi Conversion.c
+
+./conversion
+vi Conversion.c
+gcc -o conversion Conversion.c -lm
+vi Conversion.c
+gcc -o conversion Conversion.c -lm
+./conversion
+exit

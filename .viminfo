@@ -25,18 +25,23 @@
 	t
 
 # File marks:
-'0  6  29  ~/practical01/helloworld2.c
-'1  10  0  ~/practical01/helloworld2.c
-'2  6  0  ~/practical01/helloworld.c
-'3  8  75  ~/practical01/helloworld2.c
-'4  1  0  ~/practical01/helloworld2.c
-'5  13  0  ~/.bashrc
-'6  1  0  ~/practical01/.bash_history
-'7  1  15  ~/practical01/.bashrc
-'8  1  0  ~/practical01/printing.o
-'9  1  0  ~/practical01/printing.c
+'0  37  72  ~/practical02/Conversion.c
+'1  38  15  ~/practical02/Conversion.c
+'2  9  17  ~/practical02/Conversion.c
+'3  31  20  ~/practical02/Conversion.c
+'4  1  0  ~/practical02/Conversion.c
+'5  6  29  ~/practical01/helloworld2.c
+'6  10  0  ~/practical01/helloworld2.c
+'7  6  0  ~/practical01/helloworld.c
+'8  8  75  ~/practical01/helloworld2.c
+'9  1  0  ~/practical01/helloworld2.c
 
 # Jumplist (newest first):
+-'  37  72  ~/practical02/Conversion.c
+-'  38  6  ~/practical02/Conversion.c
+-'  9  3  ~/practical02/Conversion.c
+-'  31  3  ~/practical02/Conversion.c
+-'  1  0  ~/practical02/Conversion.c
 -'  6  29  ~/practical01/helloworld2.c
 -'  10  0  ~/practical01/helloworld2.c
 -'  8  1  ~/practical01/helloworld2.c
@@ -129,13 +134,26 @@
 -'  1  15  ~/practical01/.bashrc
 -'  1  0  ~/practical01/printing.o
 -'  1  0  ~/practical01/printing.c
--'  1  0  ~/.bashrc
--'  7  10  ~/practical01/helloworld2.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
--'  1  15  ~/practical01/.bashrc
 
 # History of marks within files (newest to oldest):
+
+> ~/practical02/Conversion.c
+	"	37	72
+	^	37	73
+	.	37	72
+	+	30	29
+	+	33	0
+	+	31	18
+	+	3	18
+	+	31	20
+	+	38	63
+	+	39	0
+	+	35	16
+	+	38	26
+	+	9	17
+	+	37	50
+	+	37	51
+	+	37	72
 
 > ~/practical01/helloworld2.c
 	"	6	29
