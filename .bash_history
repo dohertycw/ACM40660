@@ -197,3 +197,90 @@ vi Sum.c
 vi Sum.c
 #mathematically, the sums should be the same.
 exit
+cd practical01
+less etc/shells
+cd sciprog
+cd ..
+less etc/shells#
+less etc/shells
+cd practical01
+md practical03
+mkdir practical03
+cd practical03
+exit
+cd practical03
+vi test_sum.c
+cd ../practical01
+vi helloworld.c
+cd ../practical03
+vi test_sum.c
+gcc /o test_sum.c test1
+gcc -o  test_sum.c test1
+gcc -o  test1 test_sum.c
+vi test_sum.c
+gcc -o  test1 test_sum.c
+vi test_sum.c
+gcc -o  test1 test_sum.c
+vi test_sum.c
+gcc -o  test1 test_sum.c
+vi test_sum.c
+gcc -o  test1 test_sum.c
+vi test_sum.c
+gcc -o  test1 test_sum.c -lm
+vi test_sum.c
+gcc -o  test1 test_sum.c -lm
+vi test_sum.c
+gcc -o  test1 test_sum.c -lm
+vi test_sum.c
+cd ../practical02
+ls
+vi Conversion.c
+ls
+vi Conversion.c
+vim -r Conversion.c
+ls
+ls -a
+rm .Conversion.c.swp
+ls -a
+rm .Conversion.c.swp
+ls -a
+vi Conversion.c
+cd ../practical03
+vi Integral.c
+ls
+cd ../practical02
+vi Conversion.c
+cd ../practical03
+vi Integral.c
+cd ..
+vi .viminfo
+cd ../
+cd practical03
+ls
+cd sp79
+cd practical03
+vi Integral.c
+gcc -o test Integral.c -lm
+vi Integral.c
+gcc -o test Integral.c -lm
+vi Integral.c
+gcc -o test Integral.c -lm
+./test
+vi Integral.c
+gcc -o test Integral.c -lm
+./test
+vi Integral.c
+gcc -o test Integral.c -lm
+./test
+exit
+cd practical03
+ls
+vi test_sum.c
+ls -a 
+rm .test_sum.c.swo
+rm .test_sum.c.swp
+ls -a
+mv test integral1
+ls
+./integral1
+exit
