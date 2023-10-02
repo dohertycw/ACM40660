@@ -20,6 +20,6 @@ int main(void) {
 		fn  = fn + 2*tan(x);
 	}
 	//Generating our integral via the Trapezoidal Rule
-	integral = ((b-a)/24)*(fn + sum);
+	integral = ((b-a)/(2*i))*(fn + sum);
 	printf ("Our integral is %f \n", integral);
 }

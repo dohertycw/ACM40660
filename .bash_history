@@ -361,3 +361,22 @@ vi Integral.c
 mv integral5 integralFinal
 ls
 exit
+cd practical03
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+rm integralFinal 
+mv integral5 integralFinal
+ls
+exit

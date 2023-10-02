@@ -46,22 +46,23 @@ $
 	t
 
 # File marks:
-'0  22  50  ~/practical03/Integral.c
-'1  18  19  ~/practical03/Integral.c
-'2  23  1  ~/practical03/Integral.c
-'3  24  0  ~/practical03/Integral.c
-'4  20  74  ~/practical03/Integral.c
-'5  20  34  ~/practical03/Integral.c
-'6  20  62  ~/practical03/Integral.c
-'7  20  25  ~/practical03/Integral.c
-'8  20  26  ~/practical03/Integral.c
-'9  20  44  ~/practical03/Integral.c
+'0  25  0  ~/practical03/Integral.c
+'1  24  0  ~/practical03/Integral.c
+'2  23  61  ~/practical03/Integral.c
+'3  23  27  ~/practical03/Integral.c
+'4  22  50  ~/practical03/Integral.c
+'5  18  19  ~/practical03/Integral.c
+'6  20  74  ~/practical03/Integral.c
+'7  20  34  ~/practical03/Integral.c
+'8  20  62  ~/practical03/Integral.c
+'9  20  25  ~/practical03/Integral.c
 
 # Jumplist (newest first):
--'  22  50  ~/practical03/Integral.c
--'  18  2  ~/practical03/Integral.c
--'  23  1  ~/practical03/Integral.c
+-'  25  0  ~/practical03/Integral.c
 -'  24  1  ~/practical03/Integral.c
+-'  23  38  ~/practical03/Integral.c
+-'  22  1  ~/practical03/Integral.c
+-'  18  2  ~/practical03/Integral.c
 -'  20  74  ~/practical03/Integral.c
 -'  17  1  ~/practical03/Integral.c
 -'  10  1  ~/practical03/Integral.c
@@ -156,9 +157,9 @@ $
 # History of marks within files (newest to oldest):
 
 > ~/practical03/Integral.c
-	"	22	50
-	^	22	51
-	.	22	50
+	"	25	0
+	^	24	1
+	.	24	1
 	+	4	0
 	+	1	0
 	+	25	0
@@ -228,6 +229,11 @@ $
 	+	18	19
 	+	23	0
 	+	22	50
+	+	23	27
+	+	24	2
+	+	23	61
+	+	23	22
+	+	24	1
 
 > ~/practical02/Sum.c
 	"	36	0
