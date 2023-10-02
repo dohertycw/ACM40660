@@ -296,3 +296,68 @@ vi Integral.c
 gcc -o integral2 Integral.c -lm
 ./integral2
 exit
+cd practical03
+vi Integral.c 
+gcc -o integral3 Integral.c -lm
+./integral3
+vi Integral.c 
+gcc -o integral3 Integral.c -lm
+vi Integral.c 
+./integral3
+vi Integral.c 
+gcc -o integral3 Integral.c -lm
+./integral3
+vi Integral.c 
+gcc -o integral3 Integral.c -lm
+vi Integral.c 
+gcc -o integral3 Integral.c -lm
+./integral3
+vi Integral.c 
+gcc -o integral3 Integral.c -lm
+./integral3
+vi Integral.c 
+gcc -o integral3 Integral.c -lm
+./integral3
+vi Integral.c 
+gcc -o integral4 Integral.c -lm
+./integral4
+vi Integral.c 
+gcc -o integral4 Integral.c -lm
+./integral4
+vi Integral.c 
+gcc -o integral4 Integral.c -lm
+./integral4
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+gcc -o integral5 Integral.c -lm
+./integral5
+vi Integral.c 
+mv integral5 integralFinal
+ls
+exit

@@ -8,16 +8,17 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~Msle0/\<come\>
+~Msle0~/\<2tan\>
 
 # Last Substitute Search Pattern:
-~MSle0~&^
+~MSle0&^
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :wq
+:noh
 :nohl
 :s/^/#
 :'<,'
@@ -30,6 +31,7 @@ $
 :ew
 
 # Search String History (newest to oldest):
+? \<2tan\>
 ? ^
 ? \<come\>
 
@@ -44,21 +46,25 @@ $
 	t
 
 # File marks:
-'0  16  5  ~/practical03/Integral.c
-'1  17  19  ~/practical03/Integral.c
-'2  6  0  ~/practical03/test_sum.c
-'3  8  0  ~/practical03/test_sum.c
-'4  29  0  ~/practical03/test_sum.c
-'5  3  0  ~/practical03/test_sum.c
-'6  5  9  ~/practical03/test_sum.c
-'7  14  0  ~/practical03/test_sum.c
-'8  6  0  ~/practical01/helloworld.c
-'9  1  0  ~/practical03/test_sum.c
+'0  22  50  ~/practical03/Integral.c
+'1  18  19  ~/practical03/Integral.c
+'2  23  1  ~/practical03/Integral.c
+'3  24  0  ~/practical03/Integral.c
+'4  20  74  ~/practical03/Integral.c
+'5  20  34  ~/practical03/Integral.c
+'6  20  62  ~/practical03/Integral.c
+'7  20  25  ~/practical03/Integral.c
+'8  20  26  ~/practical03/Integral.c
+'9  20  44  ~/practical03/Integral.c
 
 # Jumplist (newest first):
--'  16  5  ~/practical03/Integral.c
--'  17  2  ~/practical03/Integral.c
--'  9  1  ~/practical03/Integral.c
+-'  22  50  ~/practical03/Integral.c
+-'  18  2  ~/practical03/Integral.c
+-'  23  1  ~/practical03/Integral.c
+-'  24  1  ~/practical03/Integral.c
+-'  20  74  ~/practical03/Integral.c
+-'  17  1  ~/practical03/Integral.c
+-'  10  1  ~/practical03/Integral.c
 -'  6  0  ~/practical03/test_sum.c
 -'  8  1  ~/practical03/test_sum.c
 -'  29  0  ~/practical03/test_sum.c
@@ -146,44 +152,104 @@ $
 -'  13  0  ~/.bashrc
 -'  1  0  ~/practical01/.bash_history
 -'  1  15  ~/practical01/.bashrc
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/.bashrc
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
 
 # History of marks within files (newest to oldest):
 
 > ~/practical03/Integral.c
-	"	16	5
-	^	16	6
-	.	16	6
+	"	22	50
+	^	22	51
+	.	22	50
 	+	4	0
 	+	1	0
-	+	19	0
-	+	9	25
-	+	10	32
-	+	9	25
+	+	25	0
+	+	10	25
+	+	11	32
+	+	10	25
 	+	7	0
 	+	6	43
-	+	13	1
+	+	14	1
 	+	8	0
 	+	7	6
-	+	15	21
+	+	17	21
 	+	8	11
-	+	14	2
-	+	16	24
-	+	14	1
-	+	16	6
-	+	15	15
-	+	18	1
-	+	16	25
+	+	15	2
+	+	18	24
+	+	15	1
+	+	18	6
+	+	17	15
+	+	21	1
+	+	18	25
 	+	8	12
-	+	17	19
-	+	16	6
+	+	20	19
+	+	18	6
+	+	13	37
+	+	20	9
+	+	8	22
+	+	21	0
+	+	20	4
+	+	8	16
+	+	20	68
+	+	20	8
+	+	20	49
+	+	20	9
+	+	17	15
+	+	19	58
+	+	17	0
+	+	16	9
+	+	20	11
+	+	20	24
+	+	20	24
+	+	20	24
+	+	20	25
+	+	20	25
+	+	21	0
+	+	20	55
+	+	8	24
+	+	9	8
+	+	10	20
+	+	20	40
+	+	17	10
+	+	20	44
+	+	20	25
+	+	20	26
+	+	20	26
+	+	20	44
+	+	20	25
+	+	20	25
+	+	20	62
+	+	20	28
+	+	20	72
+	+	20	22
+	+	23	8
+	+	8	32
+	+	23	34
+	+	24	43
+	+	23	20
+	+	18	19
+	+	23	0
+	+	22	50
+
+> ~/practical02/Sum.c
+	"	36	0
+	^	34	31
+	.	34	30
+	+	29	21
+	+	13	8
+	+	12	24
+	+	13	15
+	+	12	23
+	+	13	16
+	+	13	15
+	+	11	12
+	+	13	19
+	+	7	26
+	+	13	18
+	+	14	24
+	+	15	0
+	+	7	33
+	+	22	25
+	+	35	0
+	+	34	30
 
 > ~/practical02/Conversion.c
 	"	40	0
@@ -230,28 +296,6 @@ $
 	.	6	0
 	+	1	18
 	+	6	0
-
-> ~/practical02/Sum.c
-	"	36	0
-	^	34	31
-	.	34	30
-	+	29	21
-	+	13	8
-	+	12	24
-	+	13	15
-	+	12	23
-	+	13	16
-	+	13	15
-	+	11	12
-	+	13	19
-	+	7	26
-	+	13	18
-	+	14	24
-	+	15	0
-	+	7	33
-	+	22	25
-	+	35	0
-	+	34	30
 
 > ~/practical01/helloworld2.c
 	"	6	29
