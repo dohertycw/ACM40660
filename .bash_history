@@ -284,3 +284,15 @@ mv test integral1
 ls
 ./integral1
 exit
+cd practical03
+ls
+vi Integral.c
+gcc -o integral2 Integral.c -lm
+./integral2
+vi Integral.c
+gcc -o integral2 Integral.c -lm
+./integral2
+vi Integral.c
+gcc -o integral2 Integral.c -lm
+./integral2
+exit
