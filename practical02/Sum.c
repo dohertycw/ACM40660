@@ -25,7 +25,7 @@ int main(void) {
    printf(" Sum1=%f\n",sum1);
    printf(" Sum2=%f\n",sum2);
 
-/* Find the difference */
+/* Find the difference and print */
    diff = sum1 - sum2;
 
    printf(" Difference between the two is %f\n",diff);

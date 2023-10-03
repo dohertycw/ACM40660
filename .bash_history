@@ -380,3 +380,18 @@ rm integralFinal
 mv integral5 integralFinal
 ls
 exit
+cd practical02
+vi Conversion.c
+ls
+vi Sum.c
+cd ../practical03
+./Integral2
+./integral2
+cd practical02
+ls
+vi Conversion.c
+vi Sum.c
+exit
+cd practical03
+vi Integral.c
+exit
