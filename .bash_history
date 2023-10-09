@@ -395,3 +395,175 @@ exit
 cd practical03
 vi Integral.c
 exit
+cd practical02
+vi Sum.c
+vi Conversion.c
+cd practical01
+lsa
+;s
+ls
+vi helloworld1
+vi helloworld
+vi helloworld,c
+vi helloworld.c
+vi printing.c
+cd practical02
+rm .Conversion.c.swp
+exit
+cd practical03
+vi Integral.c 
+ls
+vi Integral.c 
+cd practical04
+ls
+vi functiontest
+vi functiontest.c
+mkdir practical04
+cd practical04
+ls
+vi functiontest.c
+gcc -o functiontest functiontest.c -lm
+vi functiontest.c
+gcc -o functiontest functiontest.c -lm
+./functiontest 
+vi functiontest.c
+gcc -o functiontest functiontest.c -lm
+vi functiontest.c
+gcc -o functiontest functiontest.c -lm
+vi functiontest.c
+vi tancalculator.vi
+vi functiontest.c
+vi tancalculator.vi
+rm tancalculator.vi 
+vi tancalculator.c
+vi functiontest.c
+vi tancalculator.c
+cd ../practical03
+ls
+vi Integral.c
+cd ../practical04
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+wq
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc 
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc 
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+:wq
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+./tancalc
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+cd practical04
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+vi tancalculator.c 
+./tancalc
+vi tancalculator.c 
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+./tancalc
+gcc -o tancalc tancalculator.c -lm
+./tancalc
+vi tancalculator.c 
+mv tancalculator.c TrapRule.c
+ls
+rm tancalc
+ls
+rm tancalc
+ls
+gcc -o tantrap TrapRule.c 
+gcc -o tantrap TrapRule.c -lm
+ls
+./tantrap
+vi README_Practical04.txt
+ls
+./tantrap 
+vi tancalculator.c 
+vi TrapRule.c 
+vi README_Practical04.txt
+exit

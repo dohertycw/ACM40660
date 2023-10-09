@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main(void) {
+	//Demonstrating how to print integers and floating point numbers (floats)
    int accountnum=1;
    float subtotal=1234.56, total=7890.12;
 

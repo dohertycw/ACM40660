@@ -18,19 +18,23 @@ $
 
 # Command Line History (newest to oldest):
 :wq
+:q!
+:Wq
+:WQ
+:q
 :noh
 :nohl
 :s/^/#
 :'<,'
 :'<,'>
-:Wq
 :ewq
-:q!
-:q
 :'<,'>s/^//
 :ew
 
 # Search String History (newest to oldest):
+?/noh
+? \<degang\>
+? );
 ? \<2tan\>
 ? ^
 ? \<come\>
@@ -42,33 +46,54 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
+""1	LINE	0
+	#include <stdio.h>
+	#include <math.h>
+	
+	int main(void) {
+"-	CHAR	0
 	t
 
 # File marks:
-'0  6  42  ~/practical03/Integral.c
-'1  28  0  ~/practical02/Sum.c
-'2  40  0  ~/practical02/Conversion.c
-'3  24  0  ~/practical03/Integral.c
-'4  23  0  ~/practical03/Integral.c
-'5  22  61  ~/practical03/Integral.c
-'6  22  27  ~/practical03/Integral.c
-'7  21  50  ~/practical03/Integral.c
-'8  17  19  ~/practical03/Integral.c
-'9  19  74  ~/practical03/Integral.c
+'0  8  8  ~/practical04/README_Practical04.txt
+'1  1  0  ~/practical04/TrapRule.c
+'2  1  0  ~/practical04/tancalculator.c
+'3  6  1  ~/practical03/Integral.c
+'4  6  26  ~/practical04/tancalculator.c
+'5  14  0  ~/practical04/functiontest.c
+'6  1  0  ~/practical04/functiontest
+'7  4  15  ~/practical04/tancalculator.c
+'8  11  0  ~/practical04/functiontest.c
+'9  1  0  ~/practical04/tancalculator.vi
 
 # Jumplist (newest first):
--'  6  42  ~/practical03/Integral.c
--'  24  0  ~/practical03/Integral.c
+-'  8  8  ~/practical04/README_Practical04.txt
+-'  1  0  ~/practical04/TrapRule.c
+-'  1  0  ~/practical04/tancalculator.c
+-'  1  0  ~/practical04/README_Practical04.txt
+-'  6  1  ~/practical03/Integral.c
+-'  6  26  ~/practical04/tancalculator.c
+-'  5  0  ~/practical04/tancalculator.c
+-'  14  0  ~/practical04/functiontest.c
+-'  11  0  ~/practical04/functiontest.c
+-'  1  0  ~/practical04/functiontest
+-'  4  15  ~/practical04/tancalculator.c
+-'  1  0  ~/practical04/tancalculator.vi
+-'  2  0  ~/practical04/functiontest.c
+-'  5  1  ~/practical04/functiontest.c
+-'  15  0  ~/practical04/functiontest.c
+-'  1  0  ~/practical04/functiontest.c
+-'  32  39  ~/practical02/Conversion.c
+-'  40  0  ~/practical02/Conversion.c
 -'  28  0  ~/practical02/Sum.c
 -'  36  0  ~/practical02/Sum.c
--'  40  0  ~/practical02/Conversion.c
--'  23  1  ~/practical03/Integral.c
--'  22  38  ~/practical03/Integral.c
--'  21  1  ~/practical03/Integral.c
--'  17  2  ~/practical03/Integral.c
--'  19  74  ~/practical03/Integral.c
--'  16  1  ~/practical03/Integral.c
+-'  25  0  ~/practical03/Integral.c
+-'  24  1  ~/practical03/Integral.c
+-'  23  38  ~/practical03/Integral.c
+-'  22  1  ~/practical03/Integral.c
+-'  18  2  ~/practical03/Integral.c
+-'  20  74  ~/practical03/Integral.c
+-'  17  1  ~/practical03/Integral.c
 -'  10  1  ~/practical03/Integral.c
 -'  6  0  ~/practical03/test_sum.c
 -'  8  1  ~/practical03/test_sum.c
@@ -139,28 +164,128 @@ $
 -'  1  0  ~/practical01/.bash_history
 -'  1  15  ~/practical01/.bashrc
 -'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/.bashrc
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
--'  1  15  ~/practical01/.bashrc
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/.bashrc
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
--'  1  15  ~/practical01/.bashrc
 
 # History of marks within files (newest to oldest):
 
+> ~/practical04/README_Practical04.txt
+	"	8	8
+	^	8	21
+	.	8	20
+	+	3	455
+	+	11	0
+	+	6	25
+	+	8	20
+
+> ~/practical04/TrapRule.c
+	"	1	0
+
+> ~/practical04/tancalculator.c
+	"	1	0
+	^	46	1
+	.	46	0
+	+	38	52
+	+	38	36
+	+	48	0
+	+	38	58
+	+	38	27
+	+	44	20
+	+	39	9
+	+	43	24
+	+	44	11
+	+	41	9
+	+	47	0
+	+	25	14
+	+	34	21
+	+	32	30
+	+	34	0
+	+	33	88
+	+	31	49
+	+	8	19
+	+	14	25
+	+	38	15
+	+	39	1
+	+	40	0
+	+	39	6
+	+	43	18
+	+	44	24
+	+	46	23
+	+	7	20
+	+	38	20
+	+	46	33
+	+	43	21
+	+	26	7
+	+	46	75
+	+	25	8
+	+	26	87
+	+	14	16
+	+	17	0
+	+	18	10
+	+	32	28
+	+	34	31
+	+	20	31
+	+	34	31
+	+	6	26
+	+	14	12
+	+	18	8
+	+	20	29
+	+	32	26
+	+	34	30
+	+	26	56
+	+	14	27
+	+	18	23
+	+	18	40
+	+	26	84
+	+	18	10
+	+	20	0
+	+	14	13
+	+	26	63
+	+	22	5
+	+	22	26
+	+	22	4
+	+	22	2
+	+	5	113
+	+	9	0
+	+	23	2
+	+	12	26
+	+	16	43
+	+	12	19
+	+	16	243
+	+	24	93
+	+	16	121
+	+	19	69
+	+	24	149
+	+	16	60
+	+	24	149
+	+	31	13
+	+	37	88
+	+	42	61
+	+	6	26
+	+	45	0
+	+	41	35
+	+	43	25
+	+	46	41
+	+	47	0
+	+	46	12
+	+	46	22
+	+	46	21
+	+	46	41
+	+	46	11
+	+	8	30
+	+	14	13
+	+	46	47
+	+	26	51
+	+	46	26
+	+	42	61
+	+	38	15
+	+	42	0
+	+	43	17
+	+	46	34
+	+	7	15
+	+	46	0
+	+	46	0
+
 > ~/practical03/Integral.c
-	"	6	42
+	"	6	1
 	^	6	43
 	.	6	42
 	+	4	0
@@ -246,6 +371,70 @@ $
 	+	21	76
 	+	6	42
 
+> ~/practical04/functiontest.c
+	"	14	0
+	^	2	0
+	.	2	0
+	+	15	0
+	+	5	9
+	+	2	0
+
+> ~/practical04/functiontest
+	"	1	0
+
+> /usr/share/vim/vim74/doc/help.txt
+	"	1	0
+
+> ~/practical04/tancalculator.vi
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/practical02/Conversion.c
+	"	32	39
+	^	38	0
+	.	30	38
+	+	30	29
+	+	33	0
+	+	31	18
+	+	3	18
+	+	31	20
+	+	39	63
+	+	40	0
+	+	35	16
+	+	39	26
+	+	9	17
+	+	37	50
+	+	37	51
+	+	37	3
+	+	32	31
+	+	30	38
+
+> ~/practical01/printing.c
+	"	5	73
+	^	5	74
+	.	5	73
+	+	3	0
+	+	5	73
+
+> ~/practical01/helloworld.c
+	"	3	25
+	^	3	26
+	.	3	25
+	+	1	18
+	+	6	0
+	+	3	25
+
+> ~/practical01/helloworld,c
+	"	1	0
+
+> ~/practical01/helloworld
+	"	1	0
+
+> ~/practical01/helloworld1
+	"	1	0
+
 > ~/practical02/Sum.c
 	"	28	0
 	^	28	32
@@ -269,24 +458,6 @@ $
 	+	34	30
 	+	28	31
 
-> ~/practical02/Conversion.c
-	"	40	0
-	^	38	0
-	.	37	3
-	+	30	29
-	+	33	0
-	+	31	18
-	+	3	18
-	+	31	20
-	+	39	63
-	+	40	0
-	+	35	16
-	+	39	26
-	+	9	17
-	+	37	50
-	+	37	51
-	+	37	3
-
 > ~/practical03/test_sum.c
 	"	6	0
 	^	28	0
@@ -307,13 +478,6 @@ $
 	^	9	2
 	.	9	1
 	+	9	1
-
-> ~/practical01/helloworld.c
-	"	6	0
-	^	6	1
-	.	6	0
-	+	1	18
-	+	6	0
 
 > ~/practical01/helloworld2.c
 	"	6	29
@@ -345,16 +509,4 @@ $
 	+	14	0
 
 > ~/practical01/.bash_history
-	"	1	0
-
-> ~/practical01/.bashrc
-	"	1	15
-	^	1	16
-	.	1	16
-	+	1	16
-
-> ~/practical01/printing.o
-	"	1	0
-
-> ~/practical01/printing.c
 	"	1	0
