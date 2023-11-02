@@ -770,3 +770,27 @@ cd practical04
 ls
 vi TrapRule.c 
 exit
+ls
+cd practical06
+ls -a
+vi Makefile
+ls
+vi Makefile
+make
+;s
+ls
+vi Makefile
+make
+ls
+rm matmultc
+make
+ls
+vi Makefile
+rm matmultc
+ls
+ls -a
+make
+ls
+make clean
+ls
+exit

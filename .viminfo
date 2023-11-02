@@ -8,7 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~Msle0~/\<2tan\>
+~Msle0~/\<rm\>
 
 # Last Substitute Search Pattern:
 ~MSle0&^
@@ -18,11 +18,12 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-:q!
-:Wq
-:WQ
-:q
 :noh
+:nohq
+:q
+:WQ
+:Wq
+:q!
 :nohl
 :s/^/#
 :'<,'
@@ -32,6 +33,12 @@ $
 :ew
 
 # Search String History (newest to oldest):
+? \<rm\>
+? \<main\>
+? :
+? \<Uncomment\>
+? }
+? \<int\>
 ?/noh
 ? \<degang\>
 ? );
@@ -46,30 +53,62 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	#include <stdio.h>
 	#include <math.h>
 	
 	int main(void) {
-"-	CHAR	0
-	t
+""-	CHAR	0
+	i
 
 # File marks:
-'0  1  0  ~/practical05/arctanh.c
-'1  1  0  ~/practical05/arcranh.
-'2  38  88  ~/practical05/fibonacci.c
-'3  53  61  ~/practical05/fibonacci.c
-'4  49  12  ~/practical05/arctanh.c
-'5  47  1  ~/practical05/arctanh.c
-'6  55  58  ~/practical05/arctanh.c
-'7  46  60  ~/practical05/arctanh.c
-'8  50  1  ~/practical05/arctanh.c
-'9  24  10  ~/practical05/arctanh.c
+'0  10  1  ~/practical06/Makefile
+'1  27  1  ~/practical06/Makefile
+'2  4  12  ~/practical06/Makefile
+'3  19  57  ~/practical06/Makefile
+'4  6  51  ~/practical06/matmult.c
+'5  44  37  ~/practical06/main.c
+'6  12  4  ~/practical06/matmult.c
+'7  13  23  ~/practical06/matmult.c
+'8  22  15  ~/practical06/Makefile
+'9  8  0  ~/practical06/matmult.c
 
 # Jumplist (newest first):
+-'  10  1  ~/practical06/Makefile
+-'  27  1  ~/practical06/Makefile
+-'  19  12  ~/practical06/Makefile
+-'  21  0  ~/practical06/Makefile
+-'  26  5  ~/practical06/Makefile
+-'  4  0  ~/practical06/Makefile
+-'  22  1  ~/practical06/Makefile
+-'  6  51  ~/practical06/matmult.c
+-'  12  4  ~/practical06/matmult.c
+-'  44  37  ~/practical06/main.c
+-'  1  0  ~/practical06/main.c
+-'  13  24  ~/practical06/matmult.c
+-'  8  1  ~/practical06/matmult.c
+-'  1  0  ~/practical06/Makefile
+-'  15  1  ~/practical06/matmult.c
+-'  1  0  ~/practical06/matmult.c
+-'  29  21  ~/practical06/structtest.c
+-'  35  3  ~/practical06/structtest.c
+-'  38  1  ~/practical06/structtest.c
+-'  32  151  ~/practical06/structtest.c
+-'  24  24  ~/practical06/structtest.c
+-'  11  1  ~/practical06/structtest.c
+-'  15  3  ~/practical06/structtest.c
+-'  13  2  ~/practical06/structtest.c
+-'  7  1  ~/practical06/structtest.c
+-'  4  1  ~/practical06/structtest.c
+-'  5  1  ~/practical06/structtest.c
+-'  3  0  ~/practical06/structtest.c
+-'  12  28  ~/practical06/structtest.c
+-'  1  18  ~/practical06/structtest.c
+-'  2  0  ~/practical06/structtest.c
+-'  39  0  ~/practical06/structtest.c
 -'  1  0  ~/practical05/arctanh.c
+-'  38  0  ~/practical05/fibonacci.c
 -'  1  0  ~/practical05/arcranh.
--'  38  88  ~/practical05/fibonacci.c
 -'  1  0  ~/practical05/fibonacci.c
 -'  53  61  ~/practical05/fibonacci.c
 -'  40  1  ~/practical05/fibonacci.c
@@ -130,42 +169,195 @@ $
 -'  23  38  ~/practical03/Integral.c
 -'  22  1  ~/practical03/Integral.c
 -'  18  2  ~/practical03/Integral.c
--'  20  74  ~/practical03/Integral.c
--'  17  1  ~/practical03/Integral.c
--'  10  1  ~/practical03/Integral.c
--'  6  0  ~/practical03/test_sum.c
--'  8  1  ~/practical03/test_sum.c
--'  29  0  ~/practical03/test_sum.c
--'  28  0  ~/practical03/test_sum.c
--'  3  0  ~/practical03/test_sum.c
--'  5  1  ~/practical03/test_sum.c
--'  14  4  ~/practical03/test_sum.c
--'  1  0  ~/practical03/test_sum.c
--'  6  0  ~/practical01/helloworld.c
--'  34  1  ~/practical02/Sum.c
--'  35  0  ~/practical02/Sum.c
--'  22  6  ~/practical02/Sum.c
--'  14  5  ~/practical02/Sum.c
--'  13  5  ~/practical02/Sum.c
--'  11  3  ~/practical02/Sum.c
--'  12  3  ~/practical02/Sum.c
--'  15  3  ~/practical02/Sum.c
--'  29  3  ~/practical02/Sum.c
--'  1  0  ~/practical02/Sum.c
--'  37  72  ~/practical02/Conversion.c
--'  38  6  ~/practical02/Conversion.c
--'  9  3  ~/practical02/Conversion.c
--'  31  3  ~/practical02/Conversion.c
--'  1  0  ~/practical02/Conversion.c
--'  6  29  ~/practical01/helloworld2.c
--'  10  0  ~/practical01/helloworld2.c
--'  8  1  ~/practical01/helloworld2.c
--'  1  0  ~/practical01/helloworld2.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
--'  1  15  ~/practical01/.bashrc
 
 # History of marks within files (newest to oldest):
+
+> ~/practical06/Makefile
+	"	10	1
+	^	10	2
+	.	10	1
+	+	9	34
+	+	4	12
+	+	18	0
+	+	16	13
+	+	22	15
+	+	2	0
+	+	1	82
+	+	6	31
+	+	14	60
+	+	19	57
+	+	27	8
+	+	4	25
+	+	27	6
+	+	5	0
+	+	24	203
+	+	10	64
+	+	26	0
+	+	27	1
+	+	10	11
+	+	11	0
+	+	10	1
+	+	26	0
+	+	27	1
+	+	10	1
+	+	26	0
+	+	27	1
+	+	10	1
+	+	27	1
+	+	26	0
+	+	10	1
+
+> ~/practical06/matmult.c
+	"	6	51
+	^	6	52
+	.	6	51
+	+	1	18
+	+	15	2
+	+	13	285
+	+	8	0
+	+	15	1
+	+	4	0
+	+	1	72
+	+	4	11
+	+	17	0
+	+	8	0
+	+	9	0
+	+	10	1
+	+	11	2
+	+	10	1
+	+	12	2
+	+	1	81
+	+	16	0
+	+	8	0
+	+	9	1
+	+	10	2
+	+	11	2
+	+	12	3
+	+	2	0
+	+	1	30
+	+	6	51
+
+> ~/practical06/main.c
+	"	44	37
+	^	44	38
+	.	44	37
+	+	3	19
+	+	7	85
+	+	8	78
+	+	16	0
+	+	8	104
+	+	18	34
+	+	29	26
+	+	18	25
+	+	40	26
+	+	44	0
+	+	40	51
+	+	44	37
+
+> ~/practical06/structtest.c
+	"	29	21
+	^	29	22
+	.	29	21
+	+	4	0
+	+	32	185
+	+	32	185
+	+	32	207
+	+	7	13
+	+	32	183
+	+	32	184
+	+	12	1
+	+	12	27
+	+	13	27
+	+	16	1
+	+	18	1
+	+	32	182
+	+	4	13
+	+	32	205
+	+	32	187
+	+	32	183
+	+	32	203
+	+	7	1
+	+	1	32
+	+	32	181
+	+	18	0
+	+	17	14
+	+	15	23
+	+	32	183
+	+	32	185
+	+	15	13
+	+	12	14
+	+	12	40
+	+	1	23
+	+	6	0
+	+	5	12
+	+	4	13
+	+	12	11
+	+	12	36
+	+	12	18
+	+	12	44
+	+	5	3
+	+	12	0
+	+	13	1
+	+	14	2
+	+	4	12
+	+	39	0
+	+	32	182
+	+	32	186
+	+	1	17
+	+	2	0
+	+	7	13
+	+	12	14
+	+	13	15
+	+	15	14
+	+	11	22
+	+	32	182
+	+	32	200
+	+	27	9
+	+	20	16
+	+	21	21
+	+	22	28
+	+	12	14
+	+	13	14
+	+	23	36
+	+	24	41
+	+	32	23
+	+	7	1
+	+	10	8
+	+	32	28
+	+	5	6
+	+	32	72
+	+	32	91
+	+	32	75
+	+	32	181
+	+	10	7
+	+	32	101
+	+	32	182
+	+	32	181
+	+	32	206
+	+	32	85
+	+	32	69
+	+	32	87
+	+	32	147
+	+	32	200
+	+	32	182
+	+	32	201
+	+	32	193
+	+	32	125
+	+	32	182
+	+	32	196
+	+	32	22
+	+	32	144
+	+	32	182
+	+	32	179
+	+	32	164
+	+	32	179
+	+	32	152
+	+	32	185
+	+	38	1
+	+	35	11
+	+	33	0
+	+	30	0
+	+	29	21
 
 > ~/practical05/arctanh.c
 	"	1	0
@@ -272,11 +464,8 @@ $
 	+	83	65
 	+	60	47
 
-> ~/practical05/arcranh.
-	"	1	0
-
 > ~/practical05/fibonacci.c
-	"	38	88
+	"	38	0
 	^	38	89
 	.	38	88
 	+	86	66
@@ -379,6 +568,9 @@ $
 	+	23	59
 	+	28	61
 	+	38	88
+
+> ~/practical05/arcranh.
+	"	1	0
 
 > ~/practical04/TrapRule.c
 	"	7	1
@@ -638,44 +830,3 @@ $
 
 > /usr/share/vim/vim74/doc/help.txt
 	"	1	0
-
-> ~/practical04/tancalculator.vi
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/practical02/Conversion.c
-	"	32	39
-	^	38	0
-	.	30	38
-	+	30	29
-	+	33	0
-	+	31	18
-	+	3	18
-	+	31	20
-	+	39	63
-	+	40	0
-	+	35	16
-	+	39	26
-	+	9	17
-	+	37	50
-	+	37	51
-	+	37	3
-	+	32	31
-	+	30	38
-
-> ~/practical01/printing.c
-	"	5	73
-	^	5	74
-	.	5	73
-	+	3	0
-	+	5	73
-
-> ~/practical01/helloworld.c
-	"	3	25
-	^	3	26
-	.	3	25
-	+	1	18
-	+	6	0
-	+	3	25
