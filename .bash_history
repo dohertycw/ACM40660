@@ -567,3 +567,206 @@ vi tancalculator.c
 vi TrapRule.c 
 vi README_Practical04.txt
 exit
+cd practical03
+ls
+vi Integral.c
+ls
+./integralFinal
+vi Integral.c
+ls
+vi README_Practical03.txt 
+exit
+ls
+cd practical04
+vi TrapRule.c 
+gcc -o test TrapRule.c -lm
+vi TrapRule.c 
+gcc -o test TrapRule.c -lm
+./test
+ls
+gcc -o tantrap TrapRule.c -lm
+./tantrap
+rm test
+ls
+exit
+cd practical04
+vi TrapRule.c 
+gcc -o tantrap TrapRule.c -lm
+./tantrap
+exit
+vi TrapRule.c 
+cd practical04
+vi TrapRule.c 
+gcc -o tantrap TrapRule.c -lm
+./tantrap
+:wq
+exit
+mkdir practical05
+cd practical06
+cd practical05
+ls
+vi inputtest.c
+gcc -o inputtest inputtest.c -lm
+vi inputtest.c
+gcc -o inputtest inputtest.c -lm
+./inputtest
+cd practical05
+ls
+vi fibonacci.c
+gcc -o fibtest fibonacci.c -lm
+vi fibonacci.c
+gcc -o fibtest fibonacci.c -lm
+vi fibonacci.c
+gcc -o fibtest fibonacci.c -lm
+vi fibonacci.c
+gcc -o fibtest fibonacci.c -lm
+vi fibonacci.c
+gcc -o fibtest fibonacci.c -lm
+./fibtest
+vi fibonacci.c
+gcc -o fibtest fibonacci.c -lm
+./fibtest
+vi fibonacci.c
+gcc -o fibtest fibonacci.c -lm
+./fibtest
+gcc -o fibtest fibonacci.c -lm
+vi fibonacci.c
+cd practical05
+vi inputtest.c
+cd ../practical04
+ls
+vi TrapRule.c
+ls
+cd practical05
+ls
+vi fibonacci.c 
+vi inputtest.x
+vi inputtest.c
+vi fibonacci.c 
+gcc -o fibonacci.c fibtest -lm
+
+vi fibonacci.c 
+ls
+vi fibonacci.c 
+ls
+gcc -o fibonacci.c fibtest -lm
+ls
+rm fibtest
+exit
+cd practical04
+ls
+vi TrapRule.c 
+cd practical05
+ls
+vi fibonacci.c 
+cd practical05
+ls
+rm fibtest
+gcc -o fibtest fibonacci.c -lm
+vi fibonacci.c 
+ls
+gcc -o fibtest fibonacci.c -lm
+vi fibonacci.c 
+gcc -o fibtest fibonacci.c -lm
+./fibtest
+vi fibonacci.c 
+gcc -o fibtest fibonacci.c -lm
+vi fibonacci.c 
+./fibtest
+vi fibonacci.c 
+gcc -o fibtest fibonacci.c -lm
+./fibtest
+vi fibonacci.c 
+gcc -o fibtest fibonacci.c -lm
+./fibtest
+vi fibonacci.c 
+gcc -o fibtest fibonacci.c -lm
+./fibtest
+vi fibonacci.c 
+gcc -o fibtest fibonacci.c -lm
+./fibtest
+vi fibonacci.c 
+gcc -o fibtest fibonacci.c -lm
+vi fibonacci.c 
+./fibtest
+mv fibtest fib
+ls
+vi maclaurin.c
+ls
+vi arctan.c
+cd practical04
+ls
+vi TrapRule.c 
+cd practical05
+ls
+vi fibonacci.c 
+cd practical05
+ls
+cd ../
+ls
+cd practical04
+ls
+cd ../practical05
+ls
+vi arctanh.c
+ls
+cd practical05
+ls
+vi arctanh.c 
+ls -a
+rm arctan.c.swp
+rm .arctan.c.swp
+rm .arctanh.c.swp 
+ls
+ls -a
+vi arctanh.c 
+vi fibonacci.c 
+vi arctanh.c 
+exit
+cd practical05
+vi arctanh.c 
+cd practical05
+ls
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+vi arctanh.c 
+vi fibonacci.c 
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+wq
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+./arctanh
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+./arctanh
+gcc -o arctanh arctanh.c -lm
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+./arctanh
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+./arctanh
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+./arctanh
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+./arctanh
+gcc -o arctanh arctanh.c -lm
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+./arctanh
+vi arctanh.c 
+gcc -o arctanh arctanh.c -lm
+./arctanh
+exit
+cd practical04
+ls
+vi TrapRule.c 
+exit

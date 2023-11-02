@@ -55,22 +55,59 @@ $
 	t
 
 # File marks:
-'0  8  8  ~/practical04/README_Practical04.txt
-'1  1  0  ~/practical04/TrapRule.c
-'2  1  0  ~/practical04/tancalculator.c
-'3  6  1  ~/practical03/Integral.c
-'4  6  26  ~/practical04/tancalculator.c
-'5  14  0  ~/practical04/functiontest.c
-'6  1  0  ~/practical04/functiontest
-'7  4  15  ~/practical04/tancalculator.c
-'8  11  0  ~/practical04/functiontest.c
-'9  1  0  ~/practical04/tancalculator.vi
+'0  1  0  ~/practical05/arctanh.c
+'1  1  0  ~/practical05/arcranh.
+'2  38  88  ~/practical05/fibonacci.c
+'3  53  61  ~/practical05/fibonacci.c
+'4  49  12  ~/practical05/arctanh.c
+'5  47  1  ~/practical05/arctanh.c
+'6  55  58  ~/practical05/arctanh.c
+'7  46  60  ~/practical05/arctanh.c
+'8  50  1  ~/practical05/arctanh.c
+'9  24  10  ~/practical05/arctanh.c
 
 # Jumplist (newest first):
--'  8  8  ~/practical04/README_Practical04.txt
+-'  1  0  ~/practical05/arctanh.c
+-'  1  0  ~/practical05/arcranh.
+-'  38  88  ~/practical05/fibonacci.c
+-'  1  0  ~/practical05/fibonacci.c
+-'  53  61  ~/practical05/fibonacci.c
+-'  40  1  ~/practical05/fibonacci.c
+-'  49  2  ~/practical05/arctanh.c
+-'  47  2  ~/practical05/arctanh.c
+-'  55  1  ~/practical05/arctanh.c
+-'  46  2  ~/practical05/arctanh.c
+-'  50  1  ~/practical05/arctanh.c
+-'  24  1  ~/practical05/arctanh.c
+-'  45  2  ~/practical05/arctanh.c
+-'  43  1  ~/practical05/arctanh.c
+-'  80  1  ~/practical05/arctanh.c
+-'  42  1  ~/practical05/arctanh.c
+-'  32  1  ~/practical05/arctanh.c
+-'  27  1  ~/practical05/arctanh.c
+-'  25  129  ~/practical05/arctanh.c
+-'  20  1  ~/practical05/arctan.c
+-'  1  0  ~/practical05/arctan.c
+-'  1  0  ~/practical05/maclaurin.c
+-'  60  0  ~/practical05/fibonacci.c
+-'  47  13  ~/practical05/fibonacci.c
+-'  41  1  ~/practical05/fibonacci.c
+-'  57  1  ~/practical05/fibonacci.c
+-'  78  31  ~/practical05/fibonacci.c
+-'  86  210  ~/practical05/fibonacci.c
+-'  8  0  ~/practical05/inputtest.c
+-'  7  1  ~/practical05/inputtest.c
+-'  1  0  ~/practical05/inputtest.x
+-'  22  2  ~/practical04/TrapRule.c
+-'  19  2  ~/practical04/TrapRule.c
+-'  9  0  ~/practical05/inputtest.c
+-'  1  0  ~/practical05/inputtest.c
+-'  1  0  ~/TrapRule.c
+-'  5  0  ~/practical04/TrapRule.c
+-'  47  0  ~/practical04/TrapRule.c
+-'  14  14  ~/practical04/TrapRule.c
 -'  1  0  ~/practical04/TrapRule.c
--'  1  0  ~/practical04/tancalculator.c
--'  1  0  ~/practical04/README_Practical04.txt
+-'  1  0  ~/practical03/README_Practical03.txt
 -'  6  1  ~/practical03/Integral.c
 -'  6  26  ~/practical04/tancalculator.c
 -'  5  0  ~/practical04/tancalculator.c
@@ -78,6 +115,7 @@ $
 -'  11  0  ~/practical04/functiontest.c
 -'  1  0  ~/practical04/functiontest
 -'  4  15  ~/practical04/tancalculator.c
+-'  1  0  ~/practical04/tancalculator.c
 -'  1  0  ~/practical04/tancalculator.vi
 -'  2  0  ~/practical04/functiontest.c
 -'  5  1  ~/practical04/functiontest.c
@@ -126,46 +164,265 @@ $
 -'  13  0  ~/.bashrc
 -'  1  0  ~/practical01/.bash_history
 -'  1  15  ~/practical01/.bashrc
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/practical01/helloworld.c
--'  1  0  ~/.bashrc
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
--'  1  15  ~/practical01/.bashrc
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/.bashrc
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
--'  1  15  ~/practical01/.bashrc
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/.bashrc
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
--'  1  15  ~/practical01/.bashrc
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/.bashrc
--'  1  0  ~/practical01/printing.c
--'  1  0  ~/practical01/printing.o
--'  1  0  ~/practical01/printing.c
--'  13  0  ~/.bashrc
--'  1  0  ~/practical01/.bash_history
--'  1  15  ~/practical01/.bashrc
--'  1  0  ~/practical01/printing.o
 
 # History of marks within files (newest to oldest):
+
+> ~/practical05/arctanh.c
+	"	1	0
+	^	1	1
+	.	60	47
+	+	61	24
+	+	67	1
+	+	73	33
+	+	74	0
+	+	50	5
+	+	17	10
+	+	10	0
+	+	17	7
+	+	17	19
+	+	50	26
+	+	9	11
+	+	24	0
+	+	50	18
+	+	50	8
+	+	50	11
+	+	58	6
+	+	53	0
+	+	67	0
+	+	57	26
+	+	58	1
+	+	7	26
+	+	34	35
+	+	34	14
+	+	23	13
+	+	34	31
+	+	57	26
+	+	7	26
+	+	23	0
+	+	34	38
+	+	22	15
+	+	34	29
+	+	34	17
+	+	34	34
+	+	34	18
+	+	45	1
+	+	22	20
+	+	41	17
+	+	34	41
+	+	44	2
+	+	34	26
+	+	41	0
+	+	37	14
+	+	43	1
+	+	41	2
+	+	22	7
+	+	7	24
+	+	8	20
+	+	7	20
+	+	41	4
+	+	22	9
+	+	44	24
+	+	45	0
+	+	42	11
+	+	26	9
+	+	80	14
+	+	44	27
+	+	46	95
+	+	25	44
+	+	24	10
+	+	49	12
+	+	46	2
+	+	47	1
+	+	46	12
+	+	35	17
+	+	46	42
+	+	46	46
+	+	36	11
+	+	46	42
+	+	47	0
+	+	55	54
+	+	47	2
+	+	49	12
+	+	5	50
+	+	11	18
+	+	14	0
+	+	15	33
+	+	5	65
+	+	19	133
+	+	20	44
+	+	29	133
+	+	30	29
+	+	32	16
+	+	30	110
+	+	38	130
+	+	39	46
+	+	38	34
+	+	39	129
+	+	52	49
+	+	54	4
+	+	36	11
+	+	55	66
+	+	30	39
+	+	55	16
+	+	60	70
+	+	66	0
+	+	64	25
+	+	70	131
+	+	71	12
+	+	83	65
+	+	60	47
+
+> ~/practical05/arcranh.
+	"	1	0
+
+> ~/practical05/fibonacci.c
+	"	38	88
+	^	38	89
+	.	38	88
+	+	86	66
+	+	86	107
+	+	86	118
+	+	86	160
+	+	86	39
+	+	86	83
+	+	86	119
+	+	86	153
+	+	86	204
+	+	86	228
+	+	86	203
+	+	86	227
+	+	86	204
+	+	86	227
+	+	86	206
+	+	86	217
+	+	86	53
+	+	86	26
+	+	86	35
+	+	86	26
+	+	86	11
+	+	86	84
+	+	86	120
+	+	86	154
+	+	86	120
+	+	86	84
+	+	86	205
+	+	86	217
+	+	86	235
+	+	86	218
+	+	86	240
+	+	90	0
+	+	86	241
+	+	63	23
+	+	81	0
+	+	64	11
+	+	86	56
+	+	86	233
+	+	86	186
+	+	86	194
+	+	86	194
+	+	89	24
+	+	86	18
+	+	86	46
+	+	86	81
+	+	86	117
+	+	86	151
+	+	61	19
+	+	62	4
+	+	64	0
+	+	62	26
+	+	85	23
+	+	87	18
+	+	88	0
+	+	86	6
+	+	87	2
+	+	88	13
+	+	89	9
+	+	89	10
+	+	66	25
+	+	62	0
+	+	64	7
+	+	65	16
+	+	66	0
+	+	74	19
+	+	70	9
+	+	69	33
+	+	71	2
+	+	73	27
+	+	79	1
+	+	78	31
+	+	32	44
+	+	27	41
+	+	60	0
+	+	57	13
+	+	41	20
+	+	47	14
+	+	48	0
+	+	41	15
+	+	47	12
+	+	40	35
+	+	41	17
+	+	47	14
+	+	40	51
+	+	6	49
+	+	8	29
+	+	12	0
+	+	18	25
+	+	22	132
+	+	25	27
+	+	36	62
+	+	43	82
+	+	53	61
+	+	4	68
+	+	8	15
+	+	10	24
+	+	14	129
+	+	23	59
+	+	28	61
+	+	38	88
+
+> ~/practical04/TrapRule.c
+	"	7	1
+	^	7	2
+	.	6	2
+	+	9	19
+	+	15	13
+	+	9	30
+	+	5	192
+	+	21	1
+	+	17	126
+	+	26	3
+	+	6	2
+
+> ~/practical05/arctan.c
+	"	20	1
+	.	20	0
+	+	3	0
+	+	4	27
+	+	20	0
+
+> ~/practical05/maclaurin.c
+	"	1	0
+
+> ~/practical05/inputtest.c
+	"	8	0
+	^	8	0
+	.	9	0
+	+	2	16
+	+	5	37
+	+	7	16
+	+	6	24
+	+	9	0
+	+	7	27
+	+	9	0
+
+> ~/practical05/inputtest.x
+	"	1	0
+
+> ~/TrapRule.c
+	"	1	0
+
+> ~/practical03/README_Practical03.txt
+	"	1	0
 
 > ~/practical04/README_Practical04.txt
 	"	8	8
@@ -175,9 +432,6 @@ $
 	+	11	0
 	+	6	25
 	+	8	20
-
-> ~/practical04/TrapRule.c
-	"	1	0
 
 > ~/practical04/tancalculator.c
 	"	1	0
@@ -425,88 +679,3 @@ $
 	+	1	18
 	+	6	0
 	+	3	25
-
-> ~/practical01/helloworld,c
-	"	1	0
-
-> ~/practical01/helloworld
-	"	1	0
-
-> ~/practical01/helloworld1
-	"	1	0
-
-> ~/practical02/Sum.c
-	"	28	0
-	^	28	32
-	.	28	31
-	+	29	21
-	+	13	8
-	+	12	24
-	+	13	15
-	+	12	23
-	+	13	16
-	+	13	15
-	+	11	12
-	+	13	19
-	+	7	26
-	+	13	18
-	+	14	24
-	+	15	0
-	+	7	33
-	+	22	25
-	+	35	0
-	+	34	30
-	+	28	31
-
-> ~/practical03/test_sum.c
-	"	6	0
-	^	28	0
-	.	28	0
-	+	1	14
-	+	29	0
-	+	26	3
-	+	27	1
-	+	5	15
-	+	6	16
-	+	3	0
-	+	2	18
-	+	6	21
-	+	28	0
-
-> ~/.viminfo
-	"	9	0
-	^	9	2
-	.	9	1
-	+	9	1
-
-> ~/practical01/helloworld2.c
-	"	6	29
-	^	6	123
-	.	6	29
-	+	8	74
-	+	4	30
-	+	5	21
-	+	4	10
-	+	6	131
-	+	6	28
-	+	6	133
-	+	4	0
-	+	5	0
-	+	6	0
-	+	6	122
-	+	7	0
-	+	8	76
-	+	10	1
-	+	6	29
-	+	6	123
-	+	6	29
-
-> ~/.bashrc
-	"	13	0
-	^	13	16
-	.	14	0
-	+	2	0
-	+	14	0
-
-> ~/practical01/.bash_history
-	"	1	0
