@@ -9,7 +9,7 @@ matmultc: main.o matmult.o
 	$(CC) -o matmultc main.o matmult.o $(LDFLAGS)
 	#rm -f *.o 
 
-#(Uncomment before rm to remove object files (.o) automatically.
+#Uncomment before rm to remove object files (.o) automatically.
 
 #Generating matmult.o file to be used in executable creation.
 
