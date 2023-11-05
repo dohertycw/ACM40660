@@ -1,0 +1,3 @@
+At lower values of a and r the series expansion and sum give results without difference. It seems that once the values of a and r are significantly different (i.e. orders of magnitude) larger and larger discrepancies appear. However, within first (say, 3) significant digits, this difference does not appear and for the most part the results are the same. 
+
+In my opinion, the series of Sn would give a more accurate result. At higher values of n and/or values of a and r with greater discrepancies machine precision might not be accurate enough, and the greater amount of values provided by the series in comparison to the equation could allow for a more accurate result. This is also probably where the discrepancy between results comes from.
