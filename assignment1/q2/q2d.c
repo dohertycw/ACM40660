@@ -7,7 +7,7 @@
 double Sn1(double n, double a, double r);
 double Sn2(double n, double a, double r);
 
-//Initialising a switch-case function withi a for-loop to provide different values for n, a and r.
+//Initialising a switch-case function within a for-loop to provide different values for n, a and r.
 
 int main(){
         int i;
@@ -74,7 +74,7 @@ double Sn1(double n, double a, double r){
         return Sn;
 }
 
-//Constructing function to generate the equation csae, Sn2. C's built-in pow() function is used to calculate and return the value of Sn.
+//Constructing function to generate the equation case, Sn2. C's built-in pow() function is used to calculate and return the value of Sn.
 
 double Sn2(double n, double a, double r){
         return (a*(1 - pow(r, n+1)))/(1 - r);

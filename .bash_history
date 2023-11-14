@@ -1,292 +1,3 @@
-./sum
-vi Sum.c
-gcc -o sum Sum.c -lm
-vi Sum.c
-./sum
-vi Sum.c
-#mathematically, the sums should be the same.
-exit
-cd practical01
-less etc/shells
-cd sciprog
-cd ..
-less etc/shells#
-less etc/shells
-cd practical01
-md practical03
-mkdir practical03
-cd practical03
-exit
-cd practical03
-vi test_sum.c
-cd ../practical01
-vi helloworld.c
-cd ../practical03
-vi test_sum.c
-gcc /o test_sum.c test1
-gcc -o  test_sum.c test1
-gcc -o  test1 test_sum.c
-vi test_sum.c
-gcc -o  test1 test_sum.c
-vi test_sum.c
-gcc -o  test1 test_sum.c
-vi test_sum.c
-gcc -o  test1 test_sum.c
-vi test_sum.c
-gcc -o  test1 test_sum.c
-vi test_sum.c
-gcc -o  test1 test_sum.c -lm
-vi test_sum.c
-gcc -o  test1 test_sum.c -lm
-vi test_sum.c
-gcc -o  test1 test_sum.c -lm
-vi test_sum.c
-cd ../practical02
-ls
-vi Conversion.c
-ls
-vi Conversion.c
-vim -r Conversion.c
-ls
-ls -a
-rm .Conversion.c.swp
-ls -a
-rm .Conversion.c.swp
-ls -a
-vi Conversion.c
-cd ../practical03
-vi Integral.c
-ls
-cd ../practical02
-vi Conversion.c
-cd ../practical03
-vi Integral.c
-cd ..
-vi .viminfo
-cd ../
-cd practical03
-ls
-cd sp79
-cd practical03
-vi Integral.c
-gcc -o test Integral.c -lm
-vi Integral.c
-gcc -o test Integral.c -lm
-vi Integral.c
-gcc -o test Integral.c -lm
-./test
-vi Integral.c
-gcc -o test Integral.c -lm
-./test
-vi Integral.c
-gcc -o test Integral.c -lm
-./test
-exit
-cd practical03
-ls
-vi test_sum.c
-ls -a 
-rm .test_sum.c.swo
-rm .test_sum.c.swp
-ls -a
-mv test integral1
-ls
-./integral1
-exit
-cd practical03
-ls
-vi Integral.c
-gcc -o integral2 Integral.c -lm
-./integral2
-vi Integral.c
-gcc -o integral2 Integral.c -lm
-./integral2
-vi Integral.c
-gcc -o integral2 Integral.c -lm
-./integral2
-exit
-cd practical03
-vi Integral.c 
-gcc -o integral3 Integral.c -lm
-./integral3
-vi Integral.c 
-gcc -o integral3 Integral.c -lm
-vi Integral.c 
-./integral3
-vi Integral.c 
-gcc -o integral3 Integral.c -lm
-./integral3
-vi Integral.c 
-gcc -o integral3 Integral.c -lm
-vi Integral.c 
-gcc -o integral3 Integral.c -lm
-./integral3
-vi Integral.c 
-gcc -o integral3 Integral.c -lm
-./integral3
-vi Integral.c 
-gcc -o integral3 Integral.c -lm
-./integral3
-vi Integral.c 
-gcc -o integral4 Integral.c -lm
-./integral4
-vi Integral.c 
-gcc -o integral4 Integral.c -lm
-./integral4
-vi Integral.c 
-gcc -o integral4 Integral.c -lm
-./integral4
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-mv integral5 integralFinal
-ls
-exit
-cd practical03
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-gcc -o integral5 Integral.c -lm
-./integral5
-vi Integral.c 
-rm integralFinal 
-mv integral5 integralFinal
-ls
-exit
-cd practical02
-vi Conversion.c
-ls
-vi Sum.c
-cd ../practical03
-./Integral2
-./integral2
-cd practical02
-ls
-vi Conversion.c
-vi Sum.c
-exit
-cd practical03
-vi Integral.c
-exit
-cd practical02
-vi Sum.c
-vi Conversion.c
-cd practical01
-lsa
-;s
-ls
-vi helloworld1
-vi helloworld
-vi helloworld,c
-vi helloworld.c
-vi printing.c
-cd practical02
-rm .Conversion.c.swp
-exit
-cd practical03
-vi Integral.c 
-ls
-vi Integral.c 
-cd practical04
-ls
-vi functiontest
-vi functiontest.c
-mkdir practical04
-cd practical04
-ls
-vi functiontest.c
-gcc -o functiontest functiontest.c -lm
-vi functiontest.c
-gcc -o functiontest functiontest.c -lm
-./functiontest 
-vi functiontest.c
-gcc -o functiontest functiontest.c -lm
-vi functiontest.c
-gcc -o functiontest functiontest.c -lm
-vi functiontest.c
-vi tancalculator.vi
-vi functiontest.c
-vi tancalculator.vi
-rm tancalculator.vi 
-vi tancalculator.c
-vi functiontest.c
-vi tancalculator.c
-cd ../practical03
-ls
-vi Integral.c
-cd ../practical04
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-wq
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc 
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc 
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-:wq
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-./tancalc
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
 ./tancalc
 vi tancalculator.c 
 gcc -o tancalc tancalculator.c -lm
@@ -998,3 +709,292 @@ exit
 cd practical05
 ls
 vi fibonacci.c
+cd assignment1/q2
+vi q2c.c
+ls -a
+rm *.swp
+rm *.c.swp
+rm .q2d.*
+rm .*
+ls
+vi q2d.c
+exit
+cd assignment1/q2
+vi q2d.c
+vi q2e.c
+vi q2f.txt 
+exit
+cd practical05
+vi arctanh.c
+cd ../assignment1/q2/
+./q2e
+vi q2b.c
+cd ../../practical05
+vi arctanh.c
+cd ../assignment1/q2
+vi q2c.c
+cd assignment1/
+mkdir q1
+mv q1a q1
+ls
+mv *.c q1
+ls
+rm q1*
+cd q1
+ls
+rm q1a
+cd ../
+ls
+mkdir q2
+ls
+cd q2
+vi q2a.c
+gcc -o q2a.c
+ls
+gcc -o q2a q2a.c -lm
+./q2a
+vi q2b.c
+gcc -o q2b q2b.c -lm
+./q2b
+vi q2c.c
+vi q2b.c
+vi q2c.c
+gcc -o q2c q2c.c -lm
+vi q2c.c
+gcc -o q2c q2c.c -lm
+vi q2c.c
+gcc -o q2c q2c.c -lm
+./q2c
+vi q2c.c
+gcc -o q2c q2c.c -lm
+./q2c
+vi q2c.c
+gcc -o q2c q2c.c -lm
+./q2c
+vi q2c.c
+gcc -o q2c q2c.c -lm
+./q2c
+vi q2c.c
+gcc -o q2c q2c.c -lm
+./q2c
+vi q2d.c
+vi q2c.c
+vi q2d.c
+gcc -o q2d q2dwq.c -lm
+gcc -o q2d q2d.c -lm
+vi q2d.c
+gcc -o q2d q2d.c -lm
+./q2d
+vi q2d.c
+gcc -o q2d q2d.c -lm
+./q2d
+vi q2d.c
+gcc -o q2d q2d.c -lm
+./q2d
+vi q2d.c
+gcc -o q2d q2d.c -lm
+./q2d
+vi q2d.c
+vi q2e.c
+gcc -o q2e q2ewq.c -lm
+gcc -o q2e q2e.c -lm
+./q2e
+vi q2f.txt
+gcc -o -Wall q2e q2e.c -lm
+ls
+gcc -o q2e q2e.c -lm -Wall
+vi q2e.c
+gcc -o q2e q2e.c -lm -Wall
+vi q2e.c
+gcc -o q2e q2e.c -lm -Wall
+./q2e
+vi q2a.c
+vi q2b.c
+vi q2c.c
+vi q2d.c
+gcc -o q2a q2a.c -lm -Wall
+gcc -o q2b q2b.c -lm -Wall
+gcc -o q2c q2c.c -lm -Wall
+gcc -o q2d q2d.c -lm -Wall
+gcc -o q2e q2e.c -lm -Wall
+./q2a
+./q2b
+./q2c
+./q2d
+./q2e
+vi q2f.txt 
+vi q1a.c
+vi q2a.c
+vi q2b.c
+vi q2c.c
+gcc -o q2c q2c.c -lm -Wall
+./q2c
+vi q2d.c
+gcc -o q2d q2d.c -lm -Wall
+./q2d
+vi q2d.c
+vi q2e.c
+./q2e
+vi q2d.c
+cd assignment1/
+cd q1
+ls
+cd ../
+ls
+cd q1
+vi q1c.c
+cd assignment1/
+cd q1
+ls -a
+vi q1c.c
+rm *.c.swp
+rm q1c.c.swp
+rm .q1c.c.swp
+ls -a
+q1c.c
+vi q1c.c
+gcc -o q1c q1c.c
+gcc -o q1c q1c.c -lm
+vi q1c.c
+gcc -o q1c q1c.c -lm
+vi q1c.c
+gcc -o q1c q1c.c -lm
+./q1c
+vi q1c.c
+gcc -o q1c q1c.c -lm
+vi q1c.c
+gcc -o q1c q1c.c -lm
+./q1c
+vi q1c.c
+gcc -o q1c q1c.c -lm
+vi q1c.c
+gcc -o q1c q1c.c -lm
+vi q1c.c
+gcc -o q1c q1c.c -lm
+./q1c
+vi q1c.c
+gcc -o q1c q1c.c -lm
+vi q1c.c
+gcc -o q1c q1c.c -lm
+./q1c
+vi q1c.c
+vi q1a.c
+vi q1b.c
+vi q1c.c
+cd assignment1/
+cd q1
+vi q1c.c
+rm .q1c.c.swp
+gcc -o q1c q1c.c -lm
+./q1c
+vi q1c.c
+gcc -o q1c q1c.c -lm
+./q1c
+gcc -o q1c q1c.c -lm
+vi q1c.c
+gcc -o q1c q1c.c -lm
+./q1c
+vi q1c.c
+vi q1d.c
+ls
+ls -a
+vi q1d.c
+ls -a
+gcc -o q1d q1d.c
+gcc -o q1d q1d.c -lm
+./q1d
+vi q1d.c
+gcc -o q1d q1d.c -lm
+./q1d
+vi q1c.c
+gcc -o q1c q1c.c -lm
+./q1c
+vi q1b.c
+ls
+rm q1c
+rm q1d
+ls
+cd ../
+cd q2
+ls
+rm q2a q2b q2c q2d q2e
+rm q1b
+ls
+vi README_Q2.txt
+ls
+cd ../
+cd q1
+ls
+ls -a
+vi q1a.c
+gcc -o q1a q1a.c -lm -Wall
+vi q1a.c
+gcc -o q1a q1a.c -lm -Wall
+gcc -o q1b q1b.c -lm -Wall
+vi q1b.c
+gcc -o q1c q1c.c -lm -Wall
+vi q1c.c
+gcc -o q1c q1c.c -lm -Wall
+ls
+vi q1d.c
+gcc -o q1d q1d.c -lm -Wall
+vi README_Q1.txt
+exit
+cd assignment1/
+cd q2
+exit
+cd assignment1/
+cd 1
+cd q1
+vi q1c.c
+rm .q1c.*
+vi q1c.c
+cd assignment1/
+cd q1
+ls
+ls -a
+vi Makefile
+vi q1a.c
+gcc -o q1a q1a.c -lm
+./q1a
+vi README_Q1.txt
+vi q1d.c
+vi README_Q1.txt
+cd ../q2
+vi README_Q2.txt 
+cd ../
+tar cvf assignment1.tar assignment1
+exit
+cd practical06
+ls
+vi Makefile 
+cd ../
+rm assignment1.tar
+cd assignment1/q1
+ls
+rm Makefile 
+ls
+rm q1a q1c q1d
+ls
+ls -a
+cd ../q2
+ls -a
+cd ../..
+ls
+tar cvf assignment1_17390816.tar assignment1/
+exit
+cd practical05
+ls
+vi fibonacci.c 
+exit
+mkdir practical07
+cd practical07
+ls
+vi exp.c
+exit
+cd practical06
+ls
+vi matmult.c
+vi main.c
+cd ../assignment1/q1/
+vi q1d.c

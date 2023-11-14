@@ -1,7 +1,9 @@
 #include <stdio.h>
 
+//creating a loop to generate the requested matrix:
+
 int main(){
-	int i, j, k;
+	int i,j;
 	double den;
 	double M[4][4];
 	for(i = 0; i <= 3; i++){
@@ -11,5 +13,6 @@ int main(){
 			printf("%f ", M[i][j]);
 		}
 		printf("\n");
-	}	
+	}
+	return 0;	
 }
