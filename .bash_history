@@ -1,229 +1,3 @@
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-cd practical04
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-vi tancalculator.c 
-./tancalc
-vi tancalculator.c 
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-./tancalc
-gcc -o tancalc tancalculator.c -lm
-./tancalc
-vi tancalculator.c 
-mv tancalculator.c TrapRule.c
-ls
-rm tancalc
-ls
-rm tancalc
-ls
-gcc -o tantrap TrapRule.c 
-gcc -o tantrap TrapRule.c -lm
-ls
-./tantrap
-vi README_Practical04.txt
-ls
-./tantrap 
-vi tancalculator.c 
-vi TrapRule.c 
-vi README_Practical04.txt
-exit
-cd practical03
-ls
-vi Integral.c
-ls
-./integralFinal
-vi Integral.c
-ls
-vi README_Practical03.txt 
-exit
-ls
-cd practical04
-vi TrapRule.c 
-gcc -o test TrapRule.c -lm
-vi TrapRule.c 
-gcc -o test TrapRule.c -lm
-./test
-ls
-gcc -o tantrap TrapRule.c -lm
-./tantrap
-rm test
-ls
-exit
-cd practical04
-vi TrapRule.c 
-gcc -o tantrap TrapRule.c -lm
-./tantrap
-exit
-vi TrapRule.c 
-cd practical04
-vi TrapRule.c 
-gcc -o tantrap TrapRule.c -lm
-./tantrap
-:wq
-exit
-mkdir practical05
-cd practical06
-cd practical05
-ls
-vi inputtest.c
-gcc -o inputtest inputtest.c -lm
-vi inputtest.c
-gcc -o inputtest inputtest.c -lm
-./inputtest
-cd practical05
-ls
-vi fibonacci.c
-gcc -o fibtest fibonacci.c -lm
-vi fibonacci.c
-gcc -o fibtest fibonacci.c -lm
-vi fibonacci.c
-gcc -o fibtest fibonacci.c -lm
-vi fibonacci.c
-gcc -o fibtest fibonacci.c -lm
-vi fibonacci.c
-gcc -o fibtest fibonacci.c -lm
-./fibtest
-vi fibonacci.c
-gcc -o fibtest fibonacci.c -lm
-./fibtest
-vi fibonacci.c
-gcc -o fibtest fibonacci.c -lm
-./fibtest
-gcc -o fibtest fibonacci.c -lm
-vi fibonacci.c
-cd practical05
-vi inputtest.c
-cd ../practical04
-ls
-vi TrapRule.c
-ls
-cd practical05
-ls
-vi fibonacci.c 
-vi inputtest.x
-vi inputtest.c
-vi fibonacci.c 
-gcc -o fibonacci.c fibtest -lm
-
-vi fibonacci.c 
-ls
-vi fibonacci.c 
-ls
-gcc -o fibonacci.c fibtest -lm
-ls
-rm fibtest
-exit
-cd practical04
-ls
-vi TrapRule.c 
-cd practical05
-ls
-vi fibonacci.c 
-cd practical05
-ls
-rm fibtest
-gcc -o fibtest fibonacci.c -lm
-vi fibonacci.c 
-ls
-gcc -o fibtest fibonacci.c -lm
-vi fibonacci.c 
-gcc -o fibtest fibonacci.c -lm
-./fibtest
-vi fibonacci.c 
-gcc -o fibtest fibonacci.c -lm
-vi fibonacci.c 
-./fibtest
-vi fibonacci.c 
-gcc -o fibtest fibonacci.c -lm
-./fibtest
-vi fibonacci.c 
-gcc -o fibtest fibonacci.c -lm
-./fibtest
-vi fibonacci.c 
-gcc -o fibtest fibonacci.c -lm
-./fibtest
-vi fibonacci.c 
-gcc -o fibtest fibonacci.c -lm
-./fibtest
-vi fibonacci.c 
-gcc -o fibtest fibonacci.c -lm
-vi fibonacci.c 
-./fibtest
-mv fibtest fib
-ls
-vi maclaurin.c
-ls
-vi arctan.c
-cd practical04
-ls
-vi TrapRule.c 
-cd practical05
-ls
-vi fibonacci.c 
-cd practical05
-ls
-cd ../
-ls
 cd practical04
 ls
 cd ../practical05
@@ -998,3 +772,229 @@ vi matmult.c
 vi main.c
 cd ../assignment1/q1/
 vi q1d.c
+cd practical07
+vi exp.c 
+gcc -o exp exp.c -lm
+vi exp.c 
+gcc -o exp exp.c -lm
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+gcc -o exp exp.c -lm
+vi exp.c 
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+gcc -o exp exp.c -lm
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+gcc -o exp exp.c -lm
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+vi factorial.c
+gcc -o test factorial.c -lm
+./test
+gcc -o test factorial.c -lm
+vi factorial.c
+gcc -o test factorial.c -lm
+./test
+vi factorial.c
+gcc -o test factorial.c -lm
+vi factorial.c
+gcc -o test factorial.c -lm
+./test
+gcc -o test factorial.c -lm
+vi factorial.c
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+./exp
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi exp.c 
+gcc -o exp exp.c -lm
+./exp
+vi pm.c
+gcc -o pm pm.c -lm
+vi pm.c
+gcc -o pm pm.c -lm
+vi pm.c
+gcc -o pm pm.c -lm
+./pm
+vi pm.c
+ls
+rm exp
+rm factorial.c 
+rm test
+rm pm
+ls
+exit
+cd practical05
+ls
+vi fibonacci.c 
+vi arctanh
+vi arctanh.c
+exot
+exit
+mkdir practical08
+ls
+cd practical08
+ls
+vi it.c
+gcc -o it it.c -lm
+./it
+vi it.c
+./it
+vi it.c
+gcc -o it it.c -lm
+./it
+vi it.c
+gcc -o it it.c -lm
+./it
+vi it.c
+gcc -o it it.c -lm
+vi it.c
+./it
+gcc -o it it.c -lm
+./it
+vi it.c
+gcc -o it it.c -lm
+./it
+4
+./it
+gcc -o it it.c -lm
+vi it.c
+gcc -o it it.c -lm
+vi it.c
+gcc -o it it.c -lm
+./it
+vi it.c
+gcc -o it it.c -lm
+./it
+gcc -o it it.c -lm
+vi it.c
+gcc -o it it.c -lm
+./it
+vi it.c
+gcc -o it it.c -lm
+./it
+gcc -o it it.c -lm
+vi it.c
+gcc -o it it.c -lm
+./it
+vi it.c
+gcc -o it it.c -lm
+./it
+vi it.c
+gcc -o it it.c -lm
+./it
+vi it.c
+gcc -o it it.c -lm
+./it
+vi it.c
+./it
+vi it.c
+gcc -o it it.c -lm
+vi it.c
+gcc -o it it.c -lm
+./it
+gcc -o it it.c -lm
+./it
+vi it.c
+vi rec.c
+gcc -o rec rec.c -lm
+vi rec.c
+gcc -o rec rec.c -lm
+./rec
+gcc -o rec rec.c -lm
+vi rec.c
+gcc -o rec rec.c -lm
+./rec
+vi rec.c
+gcc -o rec rec.c -lm
+./rec
+vi rec.c
+gcc -o rec rec.c -lm
+./rec
+gcc -o rec rec.c -lm
+vi rec.c
+exit
+cd practical07
+ls
+vi exp.c
